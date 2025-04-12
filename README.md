@@ -87,8 +87,3 @@ python train_classifier.py
 - [ ] Improve GAN stability with StyleGAN
 
 ---
-
-## 🧑‍💻 Authors
-
-- Your Name – `@yourusername`
-- Contributors welcome!
